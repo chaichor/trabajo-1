@@ -1,0 +1,13 @@
+.cuerpo{
+    background-color: black;
+    color: black;
+}
+
+.form{
+    justify-content: center;
+    color: cornsilk;
+}
+
+.form .form-text {
+    color: cornsilk;
+}
